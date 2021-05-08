@@ -8,7 +8,7 @@ library(tidyverse)
 # Exercise #1 -- Reading Data
 # 
 # 1.1 Read the following data file into R and assign it to a variable called dat:
-#     iPRG2015-Skyline/Choi2017_DDA_Skyline_input.csv
+#     Choi2017_DDA_Skyline_input.csv
 dat <- read_csv("Choi2017_DDA_Skyline_input.csv", guess_max = 10000)
 
 
